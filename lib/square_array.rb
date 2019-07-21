@@ -8,4 +8,6 @@ while array[counter] do
   counter += 1
 end
 
+return new_numbers
+
 end
